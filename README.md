@@ -11,7 +11,7 @@ arg: {1}"` and so on.
 
 **Example:**
 ```elm
-import String.Interpolate exposing(interpolate)
+import String.Interpolate exposing (interpolate)
 
 output : String
 output =
